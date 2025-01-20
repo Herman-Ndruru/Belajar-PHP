@@ -2,9 +2,11 @@ Tahap Pembelajaran
 
 - Ci4
 - Database
-- PHP fremwork
+- bootstrab
+- laravel
 - css tailwind
 - Javascript
   * javascript Dom
-  * angular
-  * vlog
+  * react
+  * nex.js
+- vlog
