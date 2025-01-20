@@ -1,0 +1,8 @@
+Tahap Pembelajaran 
+
+- Ci4
+- Database
+- css tailwind
+- Javascript
+  * javascript Dom
+  * vlog
