@@ -2,6 +2,7 @@ Tahap Pembelajaran
 
 - Ci4
 - Database
+- bootstrab
 - css tailwind
 - Javascript
   * javascript Dom
