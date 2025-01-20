@@ -5,3 +5,4 @@ Tahap Pembelajaran
 - css tailwind
 - Javascript
   * javascript Dom
+  * vlog
