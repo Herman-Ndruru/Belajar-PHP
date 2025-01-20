@@ -2,8 +2,9 @@ Tahap Pembelajaran
 
 - Ci4
 - Database
-- bootstrab
+- PHP fremwork
 - css tailwind
 - Javascript
   * javascript Dom
+  * angular
   * vlog
