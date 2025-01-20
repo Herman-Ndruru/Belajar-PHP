@@ -8,4 +8,5 @@ Tahap Pembelajaran
 - Javascript
   * javascript Dom
   * react
+  * nex.js
 - vlog
